@@ -1,6 +1,6 @@
 <div align = "center">
-  # My Programming Skills
-  ## Technologies Known
+   <h1>My Programming Skills</h1>
+  <h2>Technologies Known</h2>
  </div>
 
 <div align="center">
