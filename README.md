@@ -4,7 +4,7 @@
  </div>
 
 <div align="center">
-  <a href="https://www.oracle.com/java/technologies/jspt.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -23,7 +23,7 @@
 
 ## Additional Technologies
 
-- Java JSP
-- Java Servlet
-- MongoDB Atlas
-- MongoDB Compass
+- <a href="https://www.oracle.com/java/technologies/jspt.html">Java JSP</a>
+- <a href="https://docs.oracle.com/javaee/7/tutorial/servlets001.htm">Java Servlet<a/>
+- <a href="https://www.mongodb.com/atlas">MongoDB Atlas</a>
+- <a href="https://www.mongodb.com/products/tools/compass">MongoDB Compass</a>
