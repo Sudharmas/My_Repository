@@ -1,6 +1,7 @@
-<center> # My Programming Skills </center>
-
-<center> ## Technologies Known </center>
+<div align = "center">
+  # My Programming Skills
+  ## Technologies Known
+ </div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
