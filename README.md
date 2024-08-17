@@ -1,6 +1,6 @@
-# My Programming Skills
+<center># My Programming Skills </center>
 
-## Technologies Known
+<center>## Technologies Known</center>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
