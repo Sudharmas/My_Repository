@@ -1,6 +1,6 @@
 <div align = "center">
-   <h1>Tech stack</></h1>
-  <h2>Technologies Known</h2>
+   <h1></></h1>
+  <h2>Tech stack</h2>
  </div>
 
 <div align="center">
