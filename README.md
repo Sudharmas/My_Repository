@@ -1,5 +1,5 @@
 <div align = "center">
-   <h1>My Programming Skills</h1>
+   <h1>Tech stack</></h1>
   <h2>Technologies Known</h2>
  </div>
 
